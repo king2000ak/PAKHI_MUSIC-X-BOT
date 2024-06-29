@@ -23,7 +23,7 @@ from PAKHIMUSIC.utils.database import (
 from PAKHIMUSIC.utils.decorators.language import LanguageStart
 from PAKHIMUSIC.utils.formatters import get_readable_time
 from PAKHIMUSIC.utils.inline import help_pannel, private_panel, start_panel
-from config import BANNED_USERS, AMOP
+from config import BANNED_USERS, AMOP, START_IMG_URL
 from strings import get_string
 
 
