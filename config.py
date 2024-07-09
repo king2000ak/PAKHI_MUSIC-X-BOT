@@ -31,7 +31,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1002136795173))
 # ------------------------------------------------
 GPT_API = getenv("GPT_API")
 # Get this value from  on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 7001982096))
+OWNER_ID = getenv("OWNER_ID", 7001982096))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
